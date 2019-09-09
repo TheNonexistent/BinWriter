@@ -1,2 +1,2 @@
 # BinWriter
-A Simple Binary Writer.
+A Simple Binary Writer, Written In C++.
